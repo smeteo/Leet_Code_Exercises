@@ -1,3 +1,3 @@
 # Leetcode Exercises
 
-This repository consists of Leetcode, Edabit, and other python exercises
+This repository consists of Leetcode, Edabit, Hackerrank and other python exercises.
